@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    color: rgba(0, 0, 0, 0.8);
+    color: rgba(0, 0, 0, 0.75);
 }
 
 /* first part start */
@@ -61,7 +61,6 @@ body{
     margin-top: 100px;
 }
 .hr-two{
-    margin-bottom: 100px;
     border-color: rgba(0, 0, 0, 0.1);
 }
 /* first part end */
@@ -70,3 +69,30 @@ body{
 
 
 /* second part start */
+.second{
+    margin-top: 150px;
+}
+.sp-title{
+  font-size: 35px;
+  margin-bottom: 70px;
+  justify-content: center;
+}
+.product-name{
+    font-size: 23px;
+    color: black;
+}
+.price{
+    font-size: 20px;
+    color: black;
+    font-style: bold;
+    margin: none;
+}
+
+.rating{
+    color: #F28927;
+}
+.product-desc{
+    font-size: 12px;
+    color:gray ;
+    margin: none;
+}
