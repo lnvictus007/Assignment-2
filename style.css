@@ -43,6 +43,27 @@ body{
     background-color: black;
     color: white;
 }
+.brands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.brand{
+    margin-left:50px;
+    margin-right:50px;
+}
+.brand img{
+    width: 100px;
+    height: 100px;
+}
+.hr-one{
+    border-color: rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+}
+.hr-two{
+    margin-bottom: 100px;
+    border-color: rgba(0, 0, 0, 0.1);
+}
 /* first part end */
 
 
