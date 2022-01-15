@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+/* first part start */
+.first-part{
+    display: flex;
+}
+.logo{
+    margin-bottom: 120px;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 10px;
+}
+.first-desc{
+    margin-left: 100px;
+}
+.first-title{
+    font-size: 50px;
+}
+.top-txt{
+    font-size: 18px;
+}
+.main-cam img{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.btn-one{
+    text-decoration: none;
+    background-color: #E22E6D;
+    color: white;
+    padding: 10px 20px;
+    font-size: 17px;
+    border-radius: 25px;
+    transition: 0.4s ease;
+}
+
+.btn-one:hover{
+    background-color: black;
+    color: white;
+}
+/* first part end */
+
+
+
+
+/* second part start */
